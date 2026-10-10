@@ -1,0 +1,56 @@
+{
+  "bucketList": [
+    {
+      "destination": "Taj Mahal",
+      "traveldate": "2026-10-10",
+      "returndate": "2026-10-17",
+      "estimatedexp": "5000",
+      "currency": "INR",
+      "notes": "gfcv",
+      "id": "UGKvONDOovk"
+    },
+    {
+      "destination": "Mount Kilimanjaro",
+      "traveldate": "2026-10-29",
+      "returndate": "2026-11-10",
+      "estimatedexp": "5000",
+      "currency": "INR",
+      "notes": "kjd",
+      "id": "oMezEVmWUXs"
+    },
+    {
+      "destination": "Statue of Liberty",
+      "traveldate": "2026-10-19",
+      "returndate": "2026-11-01",
+      "estimatedexp": "200000",
+      "currency": "INR",
+      "notes": "dvc",
+      "id": "82hP7Ufmtj4"
+    }
+  ],
+  "history": [
+    {
+      "destination": "Taj Mahal",
+      "traveldate": "2026-10-10",
+      "returndate": "2026-10-17",
+      "estimatedexp": "5000",
+      "currency": "INR",
+      "notes": "gfcv",
+      "id": "xNZDwgChd0Y",
+      "formatedDate": "9/10/2026, 9:51:40 am",
+      "imageUrl": "https://res.cloudinary.com/aaha7xjt/image/upload/v1791519700/rhrdhpwherooi6vgdjt9.png"
+    },
+    {
+      "destination": "Statue of Liberty",
+      "traveldate": "2026-10-19",
+      "returndate": "2026-11-01",
+      "estimatedexp": "200000",
+      "currency": "INR",
+      "notes": "dvc",
+      "id": "Qe326zfTLsI",
+      "formatedDate": "10/10/2026, 11:33:58 am",
+      "imageUrl": "https://res.cloudinary.com/aaha7xjt/image/upload/v1791612238/b4vipkq9kbaslmn9pig0.png"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
